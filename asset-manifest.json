@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/INRS-frontend/static/css/main.a617e044.chunk.css",
-    "main.js": "/INRS-frontend/static/js/main.72b569e7.chunk.js",
-    "main.js.map": "/INRS-frontend/static/js/main.72b569e7.chunk.js.map",
-    "runtime-main.js": "/INRS-frontend/static/js/runtime-main.eadb6b34.js",
-    "runtime-main.js.map": "/INRS-frontend/static/js/runtime-main.eadb6b34.js.map",
-    "static/js/2.5ca30249.chunk.js": "/INRS-frontend/static/js/2.5ca30249.chunk.js",
-    "static/js/2.5ca30249.chunk.js.map": "/INRS-frontend/static/js/2.5ca30249.chunk.js.map",
-    "static/js/3.6c9a8e83.chunk.js": "/INRS-frontend/static/js/3.6c9a8e83.chunk.js",
-    "static/js/3.6c9a8e83.chunk.js.map": "/INRS-frontend/static/js/3.6c9a8e83.chunk.js.map",
-    "index.html": "/INRS-frontend/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/INRS-frontend/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5ca30249.chunk.js.LICENSE.txt": "/INRS-frontend/static/js/2.5ca30249.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/INRS-frontend/static/media/logo.6ce24c58.svg"
+    "main.css": "/inrs-frontend/static/css/main.a617e044.chunk.css",
+    "main.js": "/inrs-frontend/static/js/main.72b569e7.chunk.js",
+    "main.js.map": "/inrs-frontend/static/js/main.72b569e7.chunk.js.map",
+    "runtime-main.js": "/inrs-frontend/static/js/runtime-main.34245c78.js",
+    "runtime-main.js.map": "/inrs-frontend/static/js/runtime-main.34245c78.js.map",
+    "static/js/2.5ca30249.chunk.js": "/inrs-frontend/static/js/2.5ca30249.chunk.js",
+    "static/js/2.5ca30249.chunk.js.map": "/inrs-frontend/static/js/2.5ca30249.chunk.js.map",
+    "static/js/3.6c9a8e83.chunk.js": "/inrs-frontend/static/js/3.6c9a8e83.chunk.js",
+    "static/js/3.6c9a8e83.chunk.js.map": "/inrs-frontend/static/js/3.6c9a8e83.chunk.js.map",
+    "index.html": "/inrs-frontend/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/inrs-frontend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5ca30249.chunk.js.LICENSE.txt": "/inrs-frontend/static/js/2.5ca30249.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/inrs-frontend/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eadb6b34.js",
+    "static/js/runtime-main.34245c78.js",
     "static/js/2.5ca30249.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.72b569e7.chunk.js"
